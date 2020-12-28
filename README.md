@@ -1,1 +1,1 @@
-# CSCI-C292-IUB
+# C292-FinalProject-Team7
